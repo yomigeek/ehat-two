@@ -26,7 +26,7 @@ const Login = () => {
                     </div>
                     <div className="billing-content">
                       <div className="contact-form-action">
-                        <form method="get" action="/">
+                        <form method="get" action="/main">
                           <div className="row">
                             <div className="col-lg-4 column-td-6">
                               <div className="form-group">

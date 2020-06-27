@@ -10,6 +10,12 @@ export const landingRoutes = [
   {
     type: Route,
     path: '/',
+    component: Login,
+    exact: true,
+  },
+  {
+    type: Route,
+    path: '/main',
     component: Main,
     exact: true,
   },

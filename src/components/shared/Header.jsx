@@ -14,7 +14,7 @@ const Header = ({title, icon}) => {
                   </div>
                   <ul className="list-items d-flex align-items-center">
                   <li className="">
-                      <a href="/">Home .</a>
+                      <a href="/main">Home .</a>
                     </li>
                     <li className="">
                       <a href="/compare">Start .</a>
